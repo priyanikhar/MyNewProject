@@ -1,5 +1,6 @@
 def even_odd(num):
     if num%2==0:
-        print("even")
+        return "even")
      else 
-        print("odd")
+        return "odd"
+print(even_odd(8))
